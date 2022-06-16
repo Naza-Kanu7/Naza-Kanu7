@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naza-Kanu7
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on data science trainings
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning and practicing web development
+- 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me 07046013444 on WhatsApp
 
 <!---
